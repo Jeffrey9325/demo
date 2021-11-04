@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      #uri: mongodb://mongo:27017/MongoDB
+      uri: mongodb+srv://jeff:LmOMg7Bg6zJXsTMP@jeffdb.oaruc.mongodb.net/jeffdb
+server:
+  port: 8081
